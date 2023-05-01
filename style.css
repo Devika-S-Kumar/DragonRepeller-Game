@@ -1,0 +1,53 @@
+body {
+   
+    
+   background-image:url(https://awoiaf.westeros.org/images/thumb/d/d4/Aegon_on_Balerion.jpg/1200px-Aegon_on_Balerion.jpg) ;
+   background-size: cover; 
+}
+  
+  #text {
+    background-color: rgb(27, 23, 23);
+    color: white;
+    padding: 10px;
+    text-shadow: 0cqmax;
+    
+  }
+  
+  #game {
+    
+    
+   /* align-self: center;*/
+    max-width: 600px;
+    max-height: 500px;
+    background-color: rgb(47, 45, 45);
+    color: white;
+    margin: 10% auto;
+    padding: 10px;
+    border-radius: 20px;
+  }
+  
+  #controls {
+    color: bisque;
+    border: 1px black solid;
+    padding: 5px;
+    
+  }
+
+  
+  #stats {
+    border: 1px black solid;
+    color: rgb(240, 224, 189);
+    padding: 5px;
+  }
+  
+  #monsterStats {
+    display: none;
+    border: 1px black solid;
+    color: white;
+    padding: 5px;
+    background-color: red;
+  }
+  
+  .stat {
+    padding-right: 10px;
+  }
